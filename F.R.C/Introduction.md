@@ -4,5 +4,7 @@ By nature, I'm a code monkey who sits in my basement writing color words, so thi
 
 In addition to this, there will be an organizational section so teams can better adapt to an organizational scheme(God knows we needed that).
 
-So, before adieu, there's some simple terminology stuff.
+[[Team stuff]]
+[[Code]]
+[[Design]]
 
