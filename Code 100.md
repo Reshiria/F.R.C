@@ -1,0 +1,1 @@
+[[Code]] 100 is the very basics of code. I'll probably work on this later but it'll contain things like good practice and how to code in java.
