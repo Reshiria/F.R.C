@@ -1,10 +1,9 @@
-Team stuff is the header document for what the team organization, general practices, and communication processes should look like. Rn, it's where me and Austin cram our ideas before tuesday.
+Team stuff is the header document for what the team organization, general practices, and communication processes should look like. Rn, it's where me and Austin cram our ideas before Tuesday.
 
 Agenda:
 Team structure - communication -- review
 Training practices
 Mistakes this season
-
 
 Team structure:
 Mentors: Mentors are the focal piece of getting stuff done. As the ones with the most experience, mentors are responsible for doing a final review on pieces. That way, if something a student doesn't catch slips through, or the review is sloppy, the mentor can easily catch it before it's committed and point it out. This has the danger of being overly reliant on the mentor for help. Mentors are also the failsafe for when a captain fails to motivate a student. They can hover around and diagnose the issue, whether that's an unwillingness to participate or a lack of where do I begin?
@@ -16,6 +15,52 @@ Leads: 3 leads, build, code, and cad. These people are the ones who are in charg
 Students: The students are the bulk of the team. Ranging from inexperienced(or very experienced) freshies to more practiced seniors, students are the ones who do the most work. Within the students, there should be a loose hierarchy of experience. Key word is EXPERIENCE, not age. The students should be kept on track and being productive, while learning about the entire process within the team, from the start to the end.  They should have fun, but also feel pressure. By the end, everyone who tries should have the ability to call a part of the robot theirs.
 
 Meetings:
-Leads meet once a week or twice a week, communicating what each team needs from the others.
+Leads meet once a week or twice a week, communicating what each team needs from the others. CLARITY system.
 Every day, leads inform the students of what things they need to do, and get information from them regarding what needs to be done. All things are stored in github, where the plan for each week and each team's progress is tracked.
 
+Student lifecycle:
+Freshie, assuming no experience maybe FTC.
+OFFSEASON:
+Boot camp. Battle pass. Abuse dopamine receptors:
+	Learns the basic tools.
+	Going through the basic fundamentals of teams that interest them.
+	learn to communicate and navigate Github.
+	Learn responsibility for a section.
+	frequently check comms channels.
+	read through game manual
+Disassemble the robot from last year.
+Get argo running
+
+OnSeason:
+Read the game manual.
+Work on little things, small parts, easy to code things, basic electrical/ part making. Make them work with a more experienced student. Every time they finish something relatively major, have them update the github and notify someone who can do review.
+Imbue the expectation of testing.
+Make them feel accomplished at what was done.
+Decide drive team as well as goals.
+Learn to talk to other teams if only briefly.
+learn scouting
+Learn interteam communication
+Sit through strategy meetings with a minimal rule.
+
+Sophemore:
+Off season:
+hone skills and look into a new topic. Work more closely with others to master the basics and reach out into feeling competent.
+minitrials -- off season event.
+beg sponsors.
+Help the less experienced students and guide them more personally during the boot camp.
+Practice team communication through of communication building games.
+Give smaller tasks which build a sense of challenge(but not too excessively) and accomplishment and responsibility. Include review and testing.
+
+On season:
+Be the primary workforce in your team.
+Make critical components.
+Review simpler mechanisms and parts and teach less experienced students how to do stuff.
+Copy and learn from other teams.
+Learn from more skilled members.
+Cross communicate more with other teams for actual planning
+Plan things not only within the sub team but with leaders as well.
+delegate smaller tasks which freshmen can assist with.
+Learn the pming side of github slightly more.
+Primarily participate in discussion.
+
+Junior:
